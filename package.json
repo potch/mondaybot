@@ -1,0 +1,24 @@
+{
+  "author": "Potch",
+  "name": "mondaybot",
+  "description": "A kinder, gentler Monday Meeting readout.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/potch/mondaybot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/potch/mondaybot.git"
+  },
+  "scripts": {},
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.2.2",
+    "nock": ">= 0.13.3",
+    "should": ">= 0.0.1",
+    "supertest": ">= 0.1.1"
+  },
+  "optionalDependencies": {}
+}
